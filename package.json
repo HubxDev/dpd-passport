@@ -1,0 +1,92 @@
+{
+  "_args": [
+    [
+      "dpd-passport@^0.3.6",
+      "/home/ivan/repositories/super_governanta/backend"
+    ]
+  ],
+  "_from": "dpd-passport@>=0.3.6 <0.4.0",
+  "_id": "dpd-passport@0.3.6",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/dpd-passport",
+  "_nodeVersion": "5.3.0",
+  "_npmUser": {
+    "email": "info+npm@simpletechs.net",
+    "name": "simpletechs"
+  },
+  "_npmVersion": "3.3.12",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "dpd-passport",
+    "raw": "dpd-passport@^0.3.6",
+    "rawSpec": "^0.3.6",
+    "scope": null,
+    "spec": ">=0.3.6 <0.4.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/dpd-passport/-/dpd-passport-0.3.6.tgz",
+  "_shasum": "1ef5704f4d280808cddf1c3b6d8d00df92c0a646",
+  "_shrinkwrap": null,
+  "_spec": "dpd-passport@^0.3.6",
+  "_where": "/home/ivan/repositories/super_governanta/backend",
+  "author": {
+    "email": "fabian@simpletechs.net",
+    "name": "Fabian Off, simpleTechs.net"
+  },
+  "dependencies": {
+    "debug": "^0.7.4",
+    "passport": "^0.2.0",
+    "passport-dribbble": "^1.0.1",
+    "passport-facebook": "^1.0.3",
+    "passport-facebook-token": "^3.3.0",
+    "passport-github": "^0.1.5",
+    "passport-google-oauth": "^0.1.5",
+    "passport-local": "^1.0.0",
+    "passport-twitter": "^1.0.2",
+    "passport-weibo": "^0.1.2"
+  },
+  "description": "Passport for deployd",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "1ef5704f4d280808cddf1c3b6d8d00df92c0a646",
+    "tarball": "https://registry.npmjs.org/dpd-passport/-/dpd-passport-0.3.6.tgz"
+  },
+  "gitHead": "505fe5dcd833ac09e3bc9b28d29e7ee531122039",
+  "homepage": "https://bitbucket.org/simpletechs/dpd-passport#readme",
+  "keywords": [
+    "deployd",
+    "dpd",
+    "dribbble",
+    "facebook",
+    "github",
+    "google",
+    "login",
+    "passport",
+    "twitter",
+    "weibo"
+  ],
+  "license": "FreeBSD",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "simpletechs",
+      "email": "info+npm@simpletechs.net"
+    }
+  ],
+  "name": "dpd-passport",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/simpletechs/dpd-passport.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.3.6"
+}
